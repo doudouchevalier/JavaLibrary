@@ -1,0 +1,8 @@
+{
+  "ISBN": "12345678",
+  "title": "Harry Potter 1",
+  "description": "test",
+  "author": "JK Rowling",
+  "price": 10.0,
+  "rent": true
+}

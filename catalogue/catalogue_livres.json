@@ -1,0 +1,38 @@
+[
+  {
+    "nbAvailable": 13,
+    "nbCopies": 14,
+    "ISBN": 0,
+    "title": "Harry Potter à l\u0027école des sorciers",
+    "description": "description",
+    "author": "JK Rowling",
+    "price": 10.0
+  },
+  {
+    "nbAvailable": 0,
+    "nbCopies": 1,
+    "ISBN": 1,
+    "title": "La Chambre des secrets",
+    "description": "description",
+    "author": "JK Rowling",
+    "price": 10.0
+  },
+  {
+    "nbAvailable": 1,
+    "nbCopies": 1,
+    "ISBN": 2,
+    "title": "Le Prisonnier d\u0027Ascaban",
+    "description": "description",
+    "author": "JK Rowling",
+    "price": 10.0
+  },
+  {
+    "nbAvailable": 1,
+    "nbCopies": 1,
+    "ISBN": 3,
+    "title": "La Coupe de feu",
+    "description": "description",
+    "author": "JK Rowling",
+    "price": 10.0
+  }
+]

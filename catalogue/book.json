@@ -1,0 +1,29 @@
+{
+  "ISBN": "12345678",
+  "title": "Harry Potter 1",
+  "description": "test",
+  "author": "JK Rowling",
+  "price": 10.0,
+  "rent": true
+}{
+  "ISBN": "23456789",
+  "title": "Harry Potter 2",
+  "description": "test2",
+  "author": "JK Rowling",
+  "price": 10.0,
+  "rent": true
+}{
+  "ISBN": "34567890",
+  "title": "Harry Potter 3",
+  "description": "test3",
+  "author": "JK Rowling",
+  "price": 10.0,
+  "rent": false
+}{
+  "ISBN": "45678901",
+  "title": "Harry Potter 1",
+  "description": "test",
+  "author": "JK Rowling",
+  "price": 10.0,
+  "rent": false
+}

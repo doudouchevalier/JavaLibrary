@@ -1,0 +1,37 @@
+[
+  {
+    "isAdmin": true,
+    "identifier": 0,
+    "booksRent": []
+  },
+  {
+    "isAdmin": false,
+    "identifier": 1,
+    "booksRent": []
+  },
+  {
+    "isAdmin": false,
+    "identifier": 2,
+    "booksRent": []
+  },
+  {
+    "isAdmin": false,
+    "identifier": 3,
+    "booksRent": []
+  },
+  {
+    "isAdmin": false,
+    "identifier": 4,
+    "booksRent": []
+  },
+  {
+    "isAdmin": false,
+    "identifier": 5,
+    "booksRent": []
+  },
+  {
+    "isAdmin": true,
+    "identifier": 6,
+    "booksRent": []
+  }
+]
