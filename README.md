@@ -6,21 +6,21 @@ Le projet Library est composé des classes : `Book`, `User`, `Library`, `Menu` e
 
 ## Inventaire des classes
 
-- Gestion d’une bibliothèque 1
-- Book 1
-- Attributs 1
-- Méthodes 2
-- User 2
-- Attributs 2
-- Méthodes 2
-- Library 3
-- Attributs 3
-- Méthodes 3
-- Menu 4
-- Attributs 4
-- Méthodes 4
-- Main 5
-- Pistes de progression 5
+- Gestion d’une bibliothèque
+- Book
+- Attributs
+- Méthodes
+- User
+- Attributs
+- Méthodes
+- Library
+- Attributs
+- Méthodes
+- Menu
+- Attributs
+- Méthodes
+- Main
+- Pistes de progression
 
 ## Book 
 
