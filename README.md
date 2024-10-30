@@ -1,27 +1,15 @@
+Gestion d'une bibliothèque
+Ce projet porte à modéliser une bibliothèque sur le langage de programmation Java. Le programme est en mesure de gérer les actions relatives à l’activité d’une bibliothèque. Certains utilisateurs sont définis administrateurs afin de pouvoir effectuer des tâches qui leur sont propres telles que l’ajout et la suppression d’un livre ou encore l’ajout d’utilisateurs admin.
+Le projet Library est composé des classes : Book, User, Library, Menu et de la classe Main. Dans ce rapport, les classes seront expliquées indépendamment les unes des autres. Chacune de leurs méthodes regroupées par thématique seront détaillées afin d’en comprendre leur fonctionnement.
 
-# Project Title
-
-A brief description of what this project does and who it's for
-
-master
 
 ## Inventaire des classes
-
-- Gestion d’une bibliothèque
 - Book
-- Attributs
-- Méthodes
 - User
-- Attributs
-- Méthodes
 - Library
-- Attributs
-- Méthodes
 - Menu
-- Attributs
-- Méthodes
 - Main
-- Pistes de progression
+## Pistes de progression
 
 ## Book 
 
