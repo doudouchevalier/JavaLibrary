@@ -9,7 +9,6 @@ Le projet Library est composé des classes : Book, User, Library, Menu et de la 
 - Library
 - Menu
 - Main
-## Pistes de progression
 
 ## Book 
 
